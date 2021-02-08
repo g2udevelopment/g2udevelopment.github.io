@@ -1,4 +1,4 @@
-baseURL = "https://g2udevelopment.github.io/gitpages/"
+baseURL = "https://g2udevelopment.github.io/"
 languageCode = "en-us"
 title = "[WIP] Blog"
 theme = "ananke"
